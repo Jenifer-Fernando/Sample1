@@ -5,6 +5,7 @@ class Sum {
         
         System.out.println(a+b);// summation
         //This is by me
+        //This is a sum message
         
     }
 }
